@@ -2,6 +2,8 @@ Source:
 
 Dr. Daqing Chen, Course Director: MSc Data Science. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
 
+Link to Data file  https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
 
 Data Set Information:
 
